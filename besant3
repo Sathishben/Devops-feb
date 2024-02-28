@@ -2,10 +2,14 @@ statment 1
 statment 2
 statment 3
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 statment 4
 statment 5
 statment 6
 statment 7
+=======
+statment 7
+>>>>>>> Stashed changes
 =======
 statment 7
 >>>>>>> Stashed changes
